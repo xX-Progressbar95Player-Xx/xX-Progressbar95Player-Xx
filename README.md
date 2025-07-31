@@ -1,16 +1,4 @@
 ## Hi there 👋
-
-<!--
-**xX-Progressbar95Player-Xx/xX-Progressbar95Player-Xx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning: MS Batch
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 Contact me at: progressbar95player2.0@hotmail.com (DON'T HACK)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
--->
+🎮| My favourite games:
+- Progressbar95
+- Friday Night Funkin'
